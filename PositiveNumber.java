@@ -1,3 +1,10 @@
+/************************************************
+ * File:PositiveNumber.java
+ * Author:Nikita Ajay
+ * Description:To find whether a number is positive or negative
+ *Date:27/09/2023
+*Version:1.0
+*/	 
 import java.util.Scanner;
 public class PositiveNumber {
 public static void main(String[]args) {
