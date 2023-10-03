@@ -3,7 +3,7 @@
  * Description:To find whether a word is palindrome or not
  * Author:Nikita Ajay
  * Version:1.0
- * Date:26/09/23
+ * Date:03/10/23
  * ************************************************************************************/
 package javaLab;
 import java.util.Scanner;
@@ -15,11 +15,11 @@ public class Palindrome {
 	boolean word =isPalindrome(input);
 	if(word)
 	{
-		System.out.println("The given word is palindrome:");
+		System.out.println("The given word is palindrome");
 	}
 	else
 	{
-		System.out.println("The given word is not palindrome:");
+		System.out.println("The given word is not palindrome");
 	}
 	}
 	/**************************************************************************************
