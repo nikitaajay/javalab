@@ -11,9 +11,23 @@ package javaLab;
 public class AreaOfShapes {
 	public static void main(String[] args) {
 		Shape shape=new Shape();
-		Shape.area(15,30);
-		Shape.area(12.5f,13.5f);
-		Shape.area(17.5f);
+		Scanner sc= new Scanner(System.in);
+		System.out.println("Enter the base of the triangle :");
+		float base=sc.nextFloat();
+		System.out.println("Enter the height of the triangle :");
+		
+		float height=sc.nextFloat();
+		System.out.println("Enter the length of the rectangle :");
+		int length=sc.nextInt();
+		System.out.println("Enter the breadth of the rectangle :");
+		
+		int breadth=sc.nextInt();
+		System.out.println("Enter the radius of the circle :");
+		float radius=sc.nextFloat();
+		Shape.area(height,base);
+		Shape.area(length,breadth);
+		Shape.area(radius);
+		
 	}
 }
 class Shape{
