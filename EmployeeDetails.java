@@ -1,3 +1,11 @@
+/**************************************************************************************
+ * File:EmployeeDetails.java
+ * Description:To print the details of employee
+ * Author:Nikita Ajay
+ * Version:1.0
+ * Date:17/10/23
+ * ************************************************************************************/
+ 
 package javaLab;
 import java.util.Scanner;
 public class EmployeeDetails {
