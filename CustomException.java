@@ -1,3 +1,10 @@
+/**************************************************************************************
+ * File:CustomException.java
+ * Description:To implement java program  using custom exception
+ * Author:Nikita Ajay
+ * Version:1.0
+ * Date:17/11/23
+ * ************************************************************************************/
 package javaLab;
 import java.util.Scanner;
 class Customer{
