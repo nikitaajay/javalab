@@ -1,3 +1,10 @@
+/**************************************************************************************
+ * File:Interface.java
+ * Description:To illustrate interface inheritance
+ * Author:Nikita Ajay
+ * Version:1.0
+ * Date:10/11/23
+ * ************************************************************************************/
 package javaLab;
 abstract class Animal{
 	protected int legs;
