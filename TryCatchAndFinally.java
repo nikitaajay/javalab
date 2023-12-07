@@ -1,3 +1,10 @@
+/**************************************************************************************
+ * File:TryCatchAndFinally
+ * Description:To find the frequency of a letter in a sentence
+ * Author:Nikita Ajay
+ * Version:1.0
+ * Date:10/11/23
+ * ************************************************************************************/
 package javaLab;
 import java.util.Scanner;
 public class TryCatchAndFinally {
