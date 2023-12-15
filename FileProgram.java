@@ -1,3 +1,10 @@
+/**************************************************************************************
+ * File:FileProgram.java
+ * Description:To write a java program that reads from a file and write to file
+ * Author:Nikita Ajay
+ * Version:1.0
+ * Date:24/11/23
+ * ************************************************************************************/
 package javaLab;
 import java.io.FileWriter;
 import java.io.FileReader;
