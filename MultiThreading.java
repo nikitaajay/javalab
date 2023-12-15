@@ -1,3 +1,10 @@
+/**************************************************************************************
+ * File:MultiThreading.java
+ * Description:To implement multithreading in java
+ * Author:Nikita Ajay
+ * Version:1.0
+ * Date:2/12/23
+ * ************************************************************************************/
 package javaLab;
  import java.util.Random;
 
